@@ -70245,7 +70245,7 @@ A.zz.prototype={
 I(a){var s,r=null,q=this.d
 if(q==null)q=5*$.cX.a0()/100
 s=this.e
-return A.a_i(r,!0,A.amQ("images/placeholder_logo.jpeg",s==null?6*$.eI.a0()/100:s,q),r,this.c,B.aR,r,r)}}
+return A.a_i(r,!0,A.amQ("assets/images/placeholder_logo.jpeg",s==null?6*$.eI.a0()/100:s,q),r,this.c,B.aR,r,r)}}
 A.GN.prototype={
 I(a){var s,r,q=null,p=t.p,o=A.dq(A.qX(A.a([B.PG,A.dq(q,q,10*$.cX.a0()/100),new A.rC(new A.ZV(),"Admin",q),new A.rC(new A.ZW(),"Coverage",q),new A.rC(new A.ZX(),"About",q)],p),B.aP,B.Gc,B.cq),q,q),n=$.cX.a0(),m=$.eI.a0(),l=t.VY
 m=A.mO(q,q,B.tB,q,q,q,q,new A.aP(new A.L(20*$.cX.a0()/100,$.eI.a0()/100),l),new A.aP(new A.L(10*n/100,0.8*m/100),l),q,q,q,q,q,q,q,q,q,q,q)
@@ -70256,8 +70256,8 @@ s=$.cX.a0()
 r=$.eI.a0()
 l=A.mO(q,q,new A.aP(B.mu,t.Il),q,q,q,q,new A.aP(new A.L(20*$.cX.a0()/100,$.eI.a0()/100),l),new A.aP(new A.L(10*s/100,0.8*r/100),l),q,q,q,q,q,q,q,q,q,q,q)
 r=A.ac(a).RG.z
-o=A.alN(A.a([new A.cq(B.aR,n,q),m,new A.cq(B.aR,A.Kx(!1,A.eK("Dowload App",q,q,q,!0,r==null?q:r.a4Z(B.n,3.5*($.cX.a0()/3)/100,B.aS),q,q),B.C,q,q,q,q,q,new A.ZZ(),l),q)],p),q,q,q,o,q)
-n=A.amQ("images/placeholder_logo.jpeg",q,q)
+o=A.alN(A.a([new A.cq(B.aR,n,q),m,new A.cq(B.aR,A.Kx(!1,A.eK("Download App",q,q,q,!0,r==null?q:r.a4Z(B.n,3*($.cX.a0()/3)/100,B.aS),q,q),B.C,q,q,q,q,q,new A.ZZ(),l),q)],p),q,q,q,o,q)
+n=A.amQ("assets/images/placeholder_logo.jpeg",q,q)
 m=A.eK("Coming Soon",q,q,q,q,A.ac(a).RG.e,q,q)
 l=A.dq(q,5*$.eI.a0()/100,q)
 s=A.ac(a).RG.r
@@ -70341,14 +70341,14 @@ i=f.x?"Done":"Join"
 h=A.ac(a0).RG.z
 return A.ajw(e,e,A.mQ(A.ES(A.a([new A.zz(e,20*c/100,20*d/100,e),new A.cq(new A.aC(0,8*b/100,0,0),a,e),new A.cq(new A.aC(s,s,s,s),r,e),new A.cq(new A.aC(q,q,q,q),p,e),new A.cq(new A.aC(o,o,o,o),n,e),new A.cq(new A.aC(m,m,m,m),l,e),new A.Fp(k,e),new A.cq(new A.aC(j,j,j,j),A.Kx(!1,A.eK(i,e,e,e,e,h==null?e:h.l5(B.i,B.aS),e,e),B.C,e,e,e,e,e,new A.afI(f,a0),g),e)],t.p),B.aP,B.df,B.c_),e,e),e)}}
 A.afG.prototype={
-$0(){var s=this.a.d
-s===$&&A.b()
-return s.Kk(B.lg)},
+$0(){var s=this.a,r=s.d
+r===$&&A.b()
+return s.d=r.Kk(B.lg)},
 $S:0}
 A.afH.prototype={
-$0(){var s=this.a.d
-s===$&&A.b()
-return s.Kk(B.lf)},
+$0(){var s=this.a,r=s.d
+r===$&&A.b()
+return s.d=r.Kk(B.lf)},
 $S:0}
 A.afI.prototype={
 $0(){var s,r,q,p,o,n,m=this.a
