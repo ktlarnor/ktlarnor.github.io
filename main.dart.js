@@ -70383,7 +70383,7 @@ A.zC.prototype={
 I(a){var s,r=null,q=this.d
 if(q==null)q=5*$.cX.a0()/100
 s=this.e
-return A.a_q(r,!0,A.an2("assets/images/placeholder_logo.jpeg",s==null?6*$.eJ.a0()/100:s,q),r,this.c,B.aR,r,r)}}
+return A.a_q(r,!0,A.an2("/assets/images/placeholder_logo.jpeg",s==null?6*$.eJ.a0()/100:s,q),r,this.c,B.aR,r,r)}}
 A.GR.prototype={
 I(a){var s,r,q=null,p=t.p,o=A.dr(A.r0(A.a([B.PI,A.dr(q,q,10*$.cX.a0()/100),new A.rG(new A.a_2(),"Admin",q),new A.rG(new A.a_3(),"Coverage",q),new A.rG(new A.a_4(),"About",q)],p),B.aP,B.Ge,B.cq),q,q),n=$.cX.a0(),m=$.eJ.a0(),l=t.VY
 m=A.mQ(q,q,B.tB,q,q,q,q,new A.aQ(new A.L(20*$.cX.a0()/100,$.eJ.a0()/100),l),new A.aQ(new A.L(10*n/100,0.8*m/100),l),q,q,q,q,q,q,q,q,q,q,q)
@@ -70395,7 +70395,7 @@ r=$.eJ.a0()
 l=A.mQ(q,q,new A.aQ(B.mu,t.Il),q,q,q,q,new A.aQ(new A.L(20*$.cX.a0()/100,$.eJ.a0()/100),l),new A.aQ(new A.L(10*s/100,0.8*r/100),l),q,q,q,q,q,q,q,q,q,q,q)
 r=A.ac(a).RG.z
 o=A.am_(A.a([new A.cq(B.aR,n,q),m,new A.cq(B.aR,A.KB(!1,A.eL("Download App",q,q,q,!0,r==null?q:r.a56(B.n,3*($.cX.a0()/3)/100,B.aS),q,q),B.C,q,q,q,q,q,new A.a_6(),l),q)],p),q,q,q,o,q)
-n=A.an2("assets/images/placeholder_logo.jpeg",q,q)
+n=A.an2("/assets/images/placeholder_logo.jpeg",q,q)
 m=A.eL("Coming Soon",q,q,q,q,A.ac(a).RG.e,q,q)
 l=A.dr(q,5*$.eJ.a0()/100,q)
 s=A.ac(a).RG.r
